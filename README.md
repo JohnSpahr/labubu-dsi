@@ -9,7 +9,7 @@ Labubu theme for TWiLightMenu++ (for 3dsmenu)
 5. It should take you to the classic DS home screen. Go ahead and click the button with the DS at the bottom middle of the lower screen. This will take you to the homebrew settings page
 6. Next, set "user interface" under GUI settings to "Nintendo 3DS"
 7. Then, click "custom theme" and select the Labubu theme
-8. Finally, make sure "DSi/3DS music: is set to custom
+8. Finally, make sure "DSi/3DS music" is set to custom
 
 And like that, you should be set!
 
