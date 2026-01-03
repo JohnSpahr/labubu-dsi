@@ -1,10 +1,7 @@
 # labubu-dsi
 Labubu theme for TWiLightMenu++ (for 3dsmenu)
 
-<img src="demo/1.jpeg">
-<img src="demo/2.jpeg">
-<img src="demo/3.jpeg">
-<img src="demo/4.jpeg">
+<img width="300px" src="demo/1.jpeg">
 
 ## how to install
 watch <a href="https://youtu.be/sWGuQGQDCD0?si=9VGVYiO-_62IwXMj">this video</a> or follow the steps below:
@@ -20,3 +17,7 @@ watch <a href="https://youtu.be/sWGuQGQDCD0?si=9VGVYiO-_62IwXMj">this video</a> 
 And like that, you should be set!
 
 "Labubu-dsi" is based on <a href="https://skins.ds-homebrew.com/nintendo-3ds/blue">this theme</a>!
+
+<img width="300px" src="demo/2.jpeg">
+<img width="300px"src="demo/3.jpeg">
+<img width="300px"src="demo/4.jpeg">
