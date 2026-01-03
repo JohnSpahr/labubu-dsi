@@ -13,4 +13,4 @@ Labubu theme for TWiLightMenu++ (for 3dsmenu)
 
 And like that, you should be set!
 
-based off of <a href="https://skins.ds-homebrew.com/nintendo-3ds/blue">this theme</a>!
+"Labubu-dsi" is based on <a href="https://skins.ds-homebrew.com/nintendo-3ds/blue">this theme</a>!
