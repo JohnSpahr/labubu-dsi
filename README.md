@@ -1,10 +1,10 @@
 # labubu-dsi
 Labubu theme for TWiLightMenu++ (for 3dsmenu)
 
-<img src="demo/1.png">
-<img src="demo/2.png">
-<img src="demo/3.png">
-<img src="demo/4.png">
+<img src="demo/1.jpeg">
+<img src="demo/2.jpeg">
+<img src="demo/3.jpeg">
+<img src="demo/4.jpeg">
 
 ## how to install
 watch <a href="https://youtu.be/sWGuQGQDCD0?si=9VGVYiO-_62IwXMj">this video</a> or follow the steps below:
